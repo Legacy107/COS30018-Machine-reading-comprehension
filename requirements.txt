@@ -1,0 +1,7 @@
+fastai==2.7.12
+huggingface-hub==0.16.4
+numpy==1.25.2
+pandas==2.0.3
+pre-commit==3.3.3
+transformers==4.31.0
+virtualenv==20.24.2
