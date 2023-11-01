@@ -1,0 +1,6 @@
+[submodule "inference-application/flan-t5-large-ia3-covidqa"]
+	path = inference-application/flan-t5-large-ia3-covidqa
+	url = https://huggingface.co/spaces/legacy107/flan-t5-large-ia3-covidqa
+[submodule "inference-application/flan-t5-large-ia3-cpgqa"]
+	path = inference-application/flan-t5-large-ia3-cpgqa
+	url = https://huggingface.co/spaces/legacy107/flan-t5-large-ia3-cpgqa
